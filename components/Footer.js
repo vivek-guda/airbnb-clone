@@ -41,3 +41,5 @@ function Footer() {
 }
 
 export default Footer;
+
+// I have never felt short of money, not because my family is rich, it’s because my parents never made me feel like that. I know it’s not easy to pay fees for my education. It’s been years since my parents bought new clothes. They eat less than they usually do and even skip a meal sometimes. My father works extra time to pay my fees on time. They never complain  about anything. Every time I see a fake smile on his face, it’s been very long since he laughed naturally. I will do my best to build a happy future for my parents and never let them feel the way they did before.  I have great expectations for the future and this scholarship would help me to move forward with my dreams. I will be eagerly waiting for your positive response.
